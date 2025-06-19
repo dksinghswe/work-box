@@ -1,4 +1,5 @@
 <?php
+// php magic constants
 namespace php\Test;
 class Test{
 	public function __construct(){
