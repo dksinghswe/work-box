@@ -15,3 +15,4 @@ class Test{
 	}
 }
 new Test();
+//Note: The magic constants are case-insensitive, meaning __LINE__ returns the same as __line__.
